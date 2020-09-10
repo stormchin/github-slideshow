@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our storm chin's slide!"
 ---
-Hello
+hello
 Use the left arrow to go back!
